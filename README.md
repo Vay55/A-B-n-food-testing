@@ -24,6 +24,8 @@ The experiment compares:
 
 using weekly sales data collected across multiple store locations and market sizes.
 
+Raw data was taken from a Kaggle dataset.
+
 ---
 
 # Business Problem
@@ -422,3 +424,6 @@ This project demonstrates:
 - business interpretation
 - experimental limitation analysis
 - dashboard preparation for Tableau
+
+---
+Data from https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test
