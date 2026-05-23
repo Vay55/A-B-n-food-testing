@@ -178,6 +178,8 @@ Boxplots were used to visualize:
 - outliers
 - overlap between promotions
 
+<img width="638" height="475" alt="Screenshot 2026-05-23 at 15 32 04" src="https://github.com/user-attachments/assets/ae2841e0-fabc-4654-bde3-ef551cade250" />
+
 ## Key Insights
 
 - Promotions 1 and 3 showed significant overlap
