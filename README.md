@@ -303,7 +303,7 @@ This reinforced the reliability of Promotion 1’s performance.
 
 This dashboard was developed in Google Looker studio to visualize the results of the A/B/n testing analysis conducted on three fast-food promotional strategies.
 
-<img width="867" height="600" alt="Screenshot 2026-05-23 at 23 56 05" src="https://github.com/user-attachments/assets/cc5c2058-7f68-43a6-9311-487e29d54549" />
+<img width="954" height="670" alt="Screenshot 2026-05-23 at 23 58 45" src="https://github.com/user-attachments/assets/ca19d35f-63c7-4418-b01a-79e9fb3ee6fc" />
 
 ---
 
