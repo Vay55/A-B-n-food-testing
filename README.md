@@ -299,6 +299,14 @@ This reinforced the reliability of Promotion 1’s performance.
 
 ---
 
+# Dashboard 
+
+This dashboard was developed in Google Looker studio to visualize the results of the A/B/n testing analysis conducted on three fast-food promotional strategies.
+
+<img width="882" height="626" alt="Screenshot 2026-05-23 at 23 44 52" src="https://github.com/user-attachments/assets/b5e998ec-cf11-4488-a5bf-77da9cf05e57" />
+
+---
+
 # Business Interpretation
 
 ## Promotion 1
@@ -423,7 +431,7 @@ This project demonstrates:
 - data visualization
 - business interpretation
 - experimental limitation analysis
-- dashboard preparation for Tableau
+- dashboard preparation using Google looker studio
 
 ---
 Data from https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test
